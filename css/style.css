@@ -1,3 +1,11 @@
 body {
     font-family:'Vesper Libre', serif;
 }
+
+img {
+    width: 100%;
+}
+
+figcaption {
+    font-family: 'Open Sans';
+}
