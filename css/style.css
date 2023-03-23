@@ -48,3 +48,12 @@ figcaption {
     color: #757575;
     font-style: italic;
 }
+
+a:link {
+    color: #000;
+    text-decoration: underline;
+  }
+
+a:hover {
+    color: #ff3530;
+}
