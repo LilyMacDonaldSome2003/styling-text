@@ -65,3 +65,7 @@ a:hover {
 .author {
     margin-bottom: 0;
 }
+
+figure {
+    margin: 1.25em 0;
+}
